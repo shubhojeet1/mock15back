@@ -1,0 +1,1059 @@
+[
+    {
+        "category": "Maths",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "A line which cuts a pair of parallel lines is called",
+        "correct_answer": "traversal",
+        "incorrect_answers": [
+            "tangent",
+            "chord",
+            "intersector"
+        ]
+    },
+    {
+        "category": "Maths",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "An angle whose value is ____, is called complete angle ?",
+        "correct_answer": "360°",
+        "incorrect_answers": [
+            "240°",
+            "140°",
+            "none of the above"
+        ]
+    },
+    {
+        "category": "Maths",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "The areas of two similar triangles are 81 sq. cm and 49 sq. cm. Find the ratio of their corresponding heights ?",
+        "correct_answer": "9:7",
+        "incorrect_answers": [
+            "3:4",
+            "5:6",
+            "7:9"
+        ]
+    },
+    {
+        "category": "Maths",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "Consider ΔABD such that angle ADB = 20° and C is a point on BD such that AB=AC and CD=CA. Then the measure of angle ABC is ?",
+        "correct_answer": "40°",
+        "incorrect_answers": [
+            "50°",
+            "70°",
+            "90°"
+        ]
+    },
+    {
+        "category": "Maths",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "If the length and breadth of a rectangle are increased by a% and b% respectively, then the area will be increased by ?",
+        "correct_answer": "(a+b+ab/100)%",
+        "incorrect_answers": [
+            "(a+2b+ab/100)%",
+            "(a+b+2ab/100)%",
+            "none of the above"
+        ]
+    },
+    {
+        "category": "Maths",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "A, B and C can complete a piece of work in 14, 6 and 12 days respectively. Working together, they will complete the work in",
+        "correct_answer": "28/9 days",
+        "incorrect_answers": [
+            "25/8 days",
+            "27 days",
+            "28 days"
+        ]
+    },
+    {
+        "category": "Maths",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "If Px = Qy = Rz  and Q/P = R/Q, then 2z/(x+z) = ?",
+        "correct_answer": "y/x",
+        "incorrect_answers": [
+            "x/y",
+            "z/y",
+            "x/z"
+        ]
+    },
+    {
+        "category": "Maths",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "A shopkeeper purchases 15 mangoes for Rs. 10 and sells them at 10 mangoes for Rs. 15. Thus, he earns a profit of",
+        "correct_answer": "125%",
+        "incorrect_answers": [
+            "90%",
+            "120%",
+            "100%"
+        ]
+    },
+    {
+        "category": "Maths",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "4950/6 + 112 x 1.75 = ? x 2",
+        "correct_answer": "510.5",
+        "incorrect_answers": [
+            "420.6",
+            "380.9",
+            "468.7"
+        ]
+    },
+    {
+        "category": "Maths",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "If a certain sum of money can become 5 times of its principal in 10 years, then the rate of interest is",
+        "correct_answer": "40%",
+        "incorrect_answers": [
+            "50%",
+            "60%",
+            "35%"
+        ]
+    },
+    {
+        "category": "Maths",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "An amount of Rs. 10,000 becomes Rs. 20,736 in 2 years. If the rate of interest is compounded half yearly, what is the annual rate of interest ?",
+        "correct_answer": "40%",
+        "incorrect_answers": [
+            "50%",
+            "60%",
+            "20%"
+        ]
+    },
+    {
+        "category": "Maths",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "In an equilateral triangle has the height of 12 cm then what is the area of the triangle ?",
+        "correct_answer": "24√3 c.c.",
+        "incorrect_answers": [
+            "22√3 c.c.",
+            "19√3 c.c.",
+            "34√3 c.c"
+        ]
+    },
+    {
+        "category": "Maths",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "The monthly income and monthly expenditure ratio of A and B are 5:6 and 4:5 respectively. If both of them can have Rs. 500 as monthly savings, then what is the income of A ?",
+        "correct_answer": "Rs. 2,500",
+        "incorrect_answers": [
+            "Rs. 1,500",
+            "Rs. 2,200",
+            "Rs. 3,400"
+        ]
+    },
+    {
+        "category": "Maths",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Find out the least number which when multiplied by 45, the result becomes a perfect square ?",
+        "correct_answer": "5",
+        "incorrect_answers": [
+            "4",
+            "9",
+            "2"
+        ]
+    },
+    {
+        "category": "Maths",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "16-(175)2 – (75)2 = ?",
+        "correct_answer": "25000",
+        "incorrect_answers": [
+            "11000",
+            "20000",
+            "22000"
+        ]
+    },
+    {
+        "category": "Maths",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "If a = (√3+1)/(√3-1) and b = (√3-1)/(√3+1) then (a2+ab+b2)/(a2-ab+b2) = ?",
+        "correct_answer": "1",
+        "incorrect_answers": [
+            "5",
+            "6",
+            "9"
+        ]
+    },
+    {
+        "category": "Maths",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "If the fractions 3/5, 2/3, ¼, 5/7 and 6/11 are arranged in ascending order of their values, then which one will be the fourth?",
+        "correct_answer": "2/3",
+        "incorrect_answers": [
+            "5/6",
+            "4/5",
+            "1/5"
+        ]
+    },
+    {
+        "category": "Maths",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "1 hectare = ?",
+        "correct_answer": "10000 m2",
+        "incorrect_answers": [
+            "1000 m2",
+            "100000 m2",
+            "1000000 m2"
+        ]
+    },
+    {
+        "category": "Maths",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "The sum of two numbers is 24 and the sum of their squares is 386, then one number is ?",
+        "correct_answer": "19",
+        "incorrect_answers": [
+            "20",
+            "22",
+            "25"
+        ]
+    },
+    {
+        "category": "Maths",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "A wheel rotates 15 times each minute. How many degrees will it rotate in 12 seconds of time ?",
+        "correct_answer": "1080°",
+        "incorrect_answers": [
+            "180°",
+            "1280°",
+            "1000°"
+        ]
+    },
+    {
+        "category": "Maths",
+        "type": "multiple",
+        "difficulty": "hard",
+        "question": "If f(n) = n5 – n, n ϵ N, then f(n) is divisible by ?",
+        "correct_answer": "30",
+        "incorrect_answers": [
+            "20",
+            "10",
+            "40"
+        ]
+    },
+    {
+        "category": "Maths",
+        "type": "multiple",
+        "difficulty": "hard",
+        "question": "23-If “+” means “-“, “-“ means “x” means “/” and “/” means “+”, then 2 – 50 + 40 x 10 / 4 = ?",
+        "correct_answer": "127",
+        "incorrect_answers": [
+            "200",
+            "250",
+            "210"
+        ]
+    },
+    {
+        "category": "Maths",
+        "type": "multiple",
+        "difficulty": "hard",
+        "question": "A goods train runs at the speed of 72 kmph and crosses a 250 m long platform in 26 seconds. What is the length of the goods train ?",
+        "correct_answer": "270 m",
+        "incorrect_answers": [
+            "240 m",
+            "230 m",
+            "290 m"
+        ]
+    },
+    {
+        "category": "Maths",
+        "type": "multiple",
+        "difficulty": "hard",
+        "question": "The cost price of 20 articles is the same as the selling price of x articles. If the profit is 25%, then the value of x is ?",
+        "correct_answer": "16",
+        "incorrect_answers": [
+            "18",
+            "20",
+            "22"
+        ]
+    },
+    {
+        "category": "Maths",
+        "type": "multiple",
+        "difficulty": "hard",
+        "question": "By what least number, 432/625 be divided to get a perfect cube ?",
+        "correct_answer": "2 /5",
+        "incorrect_answers": [
+            "4 / 5",
+            "6 / 7",
+            "8 / 9"
+        ]
+    },
+    {
+        "category": "Maths",
+        "type": "multiple",
+        "difficulty": "hard",
+        "question": "The difference between two positive numbers is 3 and the sum of their squares is 369. Then the sum of the numbers is ?",
+        "correct_answer": "27",
+        "incorrect_answers": [
+            "32",
+            "21",
+            "25"
+        ]
+    },
+    {
+        "category": "Maths",
+        "type": "multiple",
+        "difficulty": "hard",
+        "question": "A reduction of 20% in the price of sugar enables a purchaser to obtain 3 kg more for Rs. 120. The original price of sugar per kg is",
+        "correct_answer": "Rs .10",
+        "incorrect_answers": [
+            "Rs .20",
+            "Rs .30",
+            "Rs .40"
+        ]
+    },
+    {
+        "category": "Maths",
+        "type": "multiple",
+        "difficulty": "hard",
+        "question": "The average of the first five multiples of 3 is",
+        "correct_answer": "9",
+        "incorrect_answers": [
+            "10",
+            "11",
+            "13"
+        ]
+    },
+    
+    {
+        "category": "Gk & GS",
+        "type": "multiple",
+        "difficulty": "hard",
+        "question": "The prefix Sino- (As in Sino-American) is used to refer to what nationality?",
+        "correct_answer": "Chinese",
+        "incorrect_answers": [
+            "Japanese",
+            "Russian",
+            "Indian"
+        ]
+    },
+    {
+        "category": "Gk & Gs",
+        "type": "multiple",
+        "difficulty": "hard",
+        "question": "What is the name of one of the Neo-Aramaic languages spoken by the Jewish population from Northwestern Iraq?",
+        "correct_answer": "Lishana Deni",
+        "incorrect_answers": [
+            "Hulaul&aacute;",
+            "Lishan Didan",
+            "Chaldean Neo-Aramaic"
+        ]
+    },
+    {
+        "category": "Gk & Gs",
+        "type": "multiple",
+        "difficulty": "hard",
+        "question": "Which is the largest freshwater lake in the world?",
+        "correct_answer": "Lake Superior ",
+        "incorrect_answers": [
+            "Caspian Sea",
+            "Lake Michigan",
+            "Lake Huron"
+        ]
+    },
+    {
+        "category": "Gk & Gs",
+        "type": "multiple",
+        "difficulty": "hard",
+        "question": "Fucking is a village in which country?",
+        "correct_answer": "Austria",
+        "incorrect_answers": [
+            "Germany",
+            "Switzerland",
+            "Czech Republic"
+        ]
+    },
+    {
+        "category": "Gk & Gs",
+        "type": "multiple",
+        "difficulty": "hard",
+        "question": "What is the name of the Canadian national anthem?",
+        "correct_answer": "O Canada",
+        "incorrect_answers": [
+            "O Red Maple",
+            "Leaf-Spangled Banner",
+            "March of the Puck Drop"
+        ]
+    },
+    {
+        "category": "Gk & Gs",
+        "type": "multiple",
+        "difficulty": "hard",
+        "question": "What is the tallest mountain in Canada?",
+        "correct_answer": "Mount Logan",
+        "incorrect_answers": [
+            "Mont Tremblant",
+            "Whistler Mountain",
+            "Blue Mountain"
+        ]
+    },
+    {
+        "category": "Gk & Gs",
+        "type": "multiple",
+        "difficulty": "hard",
+        "question": "What is Canada&#039;s largest island?",
+        "correct_answer": "Baffin Island",
+        "incorrect_answers": [
+            "Prince Edward Island",
+            "Vancouver Island",
+            "Newfoundland"
+        ]
+    },
+    {
+        "category": "Gk & Gs",
+        "type": "multiple",
+        "difficulty": "hard",
+        "question": "Which of these cities is NOT in England?",
+        "correct_answer": "Edinburgh",
+        "incorrect_answers": [
+            "Oxford",
+            "Manchester",
+            "Southampton"
+        ]
+    },
+    {
+        "category": "Gk & Gs",
+        "type": "multiple",
+        "difficulty": "hard",
+        "question": "Which country is the Taedong River in?",
+        "correct_answer": "North Korea",
+        "incorrect_answers": [
+            "South Korea",
+            "Japan",
+            "China"
+        ]
+    },
+    {
+        "category": "Gk & Gs",
+        "type": "multiple",
+        "difficulty": "hard",
+        "question": "What is the largest freshwater lake by volume?",
+        "correct_answer": "Lake Baikal",
+        "incorrect_answers": [
+            "Lake Superior",
+            "Lake Huron",
+            "Lake Michigan"
+        ]
+    },
+    {
+        "category": "Gk & Gs",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "The body of the Egyptian Sphinx was based on which animal?",
+        "correct_answer": "Lion",
+        "incorrect_answers": [
+            "Bull",
+            "Horse",
+            "Dog"
+        ]
+    },
+    {
+        "category": "Gk & Gs",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "Which of the following European languages is classified as a &quot;language isolate?&quot;",
+        "correct_answer": "Basque",
+        "incorrect_answers": [
+            "Galician",
+            "Maltese",
+            "Hungarian"
+        ]
+    },
+    {
+        "category": "Gk & Gs",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "How many countries does the United States share a land border with?",
+        "correct_answer": "2",
+        "incorrect_answers": [
+            "1",
+            "3",
+            "4"
+        ]
+    },
+    {
+        "category": "Gk & Gs",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "What is the name of the peninsula containing Spain and Portugal?",
+        "correct_answer": "Iberian Peninsula",
+        "incorrect_answers": [
+            "European Peninsula",
+            "Peloponnesian Peninsula",
+            "Scandinavian Peninsula"
+        ]
+    },
+    {
+        "category": "Gk & Gs",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "The Space Needle is located in which city?",
+        "correct_answer": "Seattle",
+        "incorrect_answers": [
+            "Los Angles",
+            "Toronto",
+            "Vancouver"
+        ]
+    },
+    {
+        "category": "Gk & Gs",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "What is the smallest country in the world?",
+        "correct_answer": "Vatican City",
+        "incorrect_answers": [
+            "Maldives",
+            "Monaco",
+            "Malta"
+        ]
+    },
+    {
+        "category": "Gk & Gs",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "What is the largest country in the world?",
+        "correct_answer": "Russia",
+        "incorrect_answers": [
+            "Canada",
+            "China",
+            "United States"
+        ]
+    },
+    {
+        "category": "Gk & Gs",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "Which small country is located between the borders of France and Spain?",
+        "correct_answer": "Andorra",
+        "incorrect_answers": [
+            "San Marino",
+            "Vatican City",
+            "Lichtenstein"
+        ]
+    },
+    {
+        "category": "Gk & Gs",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "The Alps are a mountain range on which continent?",
+        "correct_answer": "Europe",
+        "incorrect_answers": [
+            "North America",
+            "Asia",
+            "Africa"
+        ]
+    },
+    {
+        "category": "Gk & Gs",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "The longest shared border in the world can be found between which two nations?",
+        "correct_answer": "Canada and the United States",
+        "incorrect_answers": [
+            "Chile and Argentina",
+            "Russia and China",
+            "India and Pakistan"
+        ]
+    },
+    {
+        "category": "Gk & Gs",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "How many countries are inside the United Kingdom?",
+        "correct_answer": "Four",
+        "incorrect_answers": [
+            "Two",
+            "Three",
+            "One"
+        ]
+    },
+    {
+        "category": "Gk & Gs",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Which city is the capital of Switzerland?",
+        "correct_answer": "Bern",
+        "incorrect_answers": [
+            "Z&uuml;rich",
+            "Frankfurt",
+            "Wien"
+        ]
+    },
+    {
+        "category": "Gk & Gs",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "What is the capital of Australia?",
+        "correct_answer": "Canberra",
+        "incorrect_answers": [
+            "Sydney",
+            "Melbourne",
+            "Brisbane"
+        ]
+    },
+    {
+        "category": "Gk & Gs",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "All of the following countries have official claims to territory in Antartica EXCEPT:",
+        "correct_answer": "United States",
+        "incorrect_answers": [
+            "Australia",
+            "Chile",
+            "Norway"
+        ]
+    },
+    {
+        "category": "Gk & Gs",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Where is the world&#039;s oldest still operational space launch facility located?",
+        "correct_answer": "Kazakhstan",
+        "incorrect_answers": [
+            "Russia",
+            "Iran",
+            "United States"
+        ]
+    },
+    {
+        "category": "Gk & Gs",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "What is the busiest port in Europe?",
+        "correct_answer": "Port of Rotterdam",
+        "incorrect_answers": [
+            "Port of Antwerp",
+            "Port of Hamburg",
+            "Port of Amsterdam"
+        ]
+    },
+    {
+        "category": "Gk & Gs",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "What is the highest mountain in the world?",
+        "correct_answer": "Mt. Everest",
+        "incorrect_answers": [
+            "Mount Godwin Austen",
+            "Kangchenjunga",
+            "Annapurna"
+        ]
+    },
+    {
+        "category": "Gk & Gs",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Which English county will you find the University of East Anglia?",
+        "correct_answer": "Norfolk",
+        "incorrect_answers": [
+            "Suffolk",
+            "Essex",
+            "Cambridgeshire"
+        ]
+    },
+    {
+        "category": "Gk & Gs",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Frankenmuth, a US city nicknamed &quot;Little Bavaria&quot;, is located in what state?",
+        "correct_answer": "Michigan",
+        "incorrect_answers": [
+            "Pennsylvania",
+            "Kentucky",
+            "Virginia"
+        ]
+    },
+    {
+        "category": "Gk & Gs",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "How many provinces are in the Netherlands?",
+        "correct_answer": "12",
+        "incorrect_answers": [
+            "14",
+            "10",
+            "13"
+        ]
+    },
+    {
+        "category": "Social Science",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "This field is sometimes known as &ldquo;The Dismal Science.&rdquo;",
+        "correct_answer": "Economics",
+        "incorrect_answers": [
+            "Philosophy",
+            "Politics",
+            "Physics"
+        ]
+    },
+    {
+        "category": "Social Science",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "A doctor with a PhD is a doctor of what?",
+        "correct_answer": "Philosophy",
+        "incorrect_answers": [
+            "Psychology",
+            "Phrenology",
+            "Physical Therapy"
+        ]
+    },
+    {
+        "category": "Social Science",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Which of the following Ivy League universities has its official motto in Hebrew as well as in Latin?",
+        "correct_answer": "Yale University",
+        "incorrect_answers": [
+            "Princeton University",
+            "Harvard University",
+            "Columbia University"
+        ]
+    },
+    {
+        "category": "Social Science",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Which of these companies does NOT manufacture automobiles?",
+        "correct_answer": "Ducati",
+        "incorrect_answers": [
+            "Nissan",
+            "GMC",
+            "Fiat"
+        ]
+    },
+    {
+        "category": "Social Science",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "What is the last letter of the Greek alphabet?",
+        "correct_answer": "Omega",
+        "incorrect_answers": [
+            "Mu",
+            "Epsilon",
+            "Kappa"
+        ]
+    },
+    {
+        "category": "Social Science",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Which iconic Disneyland attraction was closed in 2017 to be remodeled as a &quot;Guardians of the Galaxy&quot; themed ride?",
+        "correct_answer": "Twilight Zone Tower of Terror",
+        "incorrect_answers": [
+            "The Haunted Mansion",
+            "Pirates of the Caribbean",
+            "Peter Pan&#039;s Flight"
+        ]
+    },
+    {
+        "category": "Social Science",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Apple co-founder Steve Jobs died from complications of which form of cancer?",
+        "correct_answer": "Pancreatic",
+        "incorrect_answers": [
+            "Bone",
+            "Liver",
+            "Stomach"
+        ]
+    },
+    {
+        "category": "Social Science",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Where did the pineapple plant originate?",
+        "correct_answer": "South America",
+        "incorrect_answers": [
+            "Hawaii",
+            "Europe",
+            "Asia"
+        ]
+    },
+    {
+        "category": "Social Science",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "The Fields Medal, one of the most sought after awards in mathematics, is awarded every how many years?",
+        "correct_answer": "4",
+        "incorrect_answers": [
+            "3",
+            "5",
+            "6"
+        ]
+    },
+    {
+        "category": "Social Science",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "The Mexican Beer &quot;Corona&quot; is what type of beer?",
+        "correct_answer": "Pale Lager",
+        "incorrect_answers": [
+            "India Pale Ale",
+            "Pilfsner",
+            "Baltic Porter"
+        ]
+    },
+    {
+        "category": "Social Science",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "Virgin Trains, Virgin Atlantic and Virgin Racing, are all companies owned by which famous entrepreneur?   ",
+        "correct_answer": "Richard Branson",
+        "incorrect_answers": [
+            "Alan Sugar",
+            "Donald Trump",
+            "Bill Gates"
+        ]
+    },
+    {
+        "category": "Social Science",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "What does a funambulist walk on?",
+        "correct_answer": "A Tight Rope",
+        "incorrect_answers": [
+            "Broken Glass",
+            "Balls",
+            "The Moon"
+        ]
+    },
+    {
+        "category": "Social Science",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "On a dartboard, what number is directly opposite No. 1?",
+        "correct_answer": "19",
+        "incorrect_answers": [
+            "20",
+            "12",
+            "15"
+        ]
+    },
+    {
+        "category": "Social Science",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "Red Vines is a brand of what type of candy?",
+        "correct_answer": "Licorice",
+        "incorrect_answers": [
+            "Lollipop",
+            "Chocolate",
+            "Bubblegum"
+        ]
+    },
+    {
+        "category": "Social Science",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "Which of these colours is NOT featured in the logo for Google?",
+        "correct_answer": "Pink",
+        "incorrect_answers": [
+            "Yellow",
+            "Blue",
+            "Green"
+        ]
+    },
+    {
+        "category": "Social Science",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "If you are caught &quot;Goldbricking&quot;, what are you doing wrong?",
+        "correct_answer": "Slacking",
+        "incorrect_answers": [
+            "Smoking",
+            "Stealing",
+            "Cheating"
+        ]
+    },
+    {
+        "category": "Social Science",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "How many furlongs are there in a mile?",
+        "correct_answer": "Eight",
+        "incorrect_answers": [
+            "Two",
+            "Four",
+            "Six"
+        ]
+    },
+    {
+        "category": "Social Science",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "Who is the youngest person to recieve a Nobel Prize?",
+        "correct_answer": "Malala Yousafzai",
+        "incorrect_answers": [
+            "Lawrence Bragg",
+            "Werner Heisenberg",
+            "Yasser Arafat"
+        ]
+    },
+    {
+        "category": "Social Science",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "What is the profession of Elon Musk&#039;s mom, Maye Musk?",
+        "correct_answer": "Model",
+        "incorrect_answers": [
+            "Professor",
+            "Biologist",
+            "Musician"
+        ]
+    },
+    {
+        "category": "Social Science",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "Which country has the union jack in its flag?",
+        "correct_answer": "New Zealand",
+        "incorrect_answers": [
+            "South Africa",
+            "Canada",
+            "Hong Kong"
+        ]
+    },
+    {
+        "category": "Social Science",
+        "type": "multiple",
+        "difficulty": "hard",
+        "question": "When was &quot;YouTube&quot; founded?",
+        "correct_answer": "February 14, 2005",
+        "incorrect_answers": [
+            "May 22, 2004",
+            "September 12, 2005",
+            "July 19, 2009"
+        ]
+    },
+    {
+        "category": "Social Science",
+        "type": "multiple",
+        "difficulty": "hard",
+        "question": "What is the romanized Chinese word for &quot;airplane&quot;?",
+        "correct_answer": "Feiji",
+        "incorrect_answers": [
+            "Qiche",
+            "Zongxian",
+            "Huojian"
+        ]
+    },
+    {
+        "category": "Social Science",
+        "type": "multiple",
+        "difficulty": "hard",
+        "question": "What is the romanized Arabic word for &quot;moon&quot;?",
+        "correct_answer": "Qamar",
+        "incorrect_answers": [
+            "Najma",
+            "Kawkab",
+            "Shams"
+        ]
+    },
+    {
+        "category": "Social Science",
+        "type": "multiple",
+        "difficulty": "hard",
+        "question": "The Swedish word &quot;Grunka&quot; means what in English?",
+        "correct_answer": "Thing",
+        "incorrect_answers": [
+            "People",
+            "Place",
+            "Pineapple"
+        ]
+    },
+    {
+        "category": "Social Science",
+        "type": "multiple",
+        "difficulty": "hard",
+        "question": "Disney&#039;s Haunted Mansion is home to a trio of Hitchhiking Ghosts. Which of these is NOT one of them?",
+        "correct_answer": "Harry",
+        "incorrect_answers": [
+            "Gus",
+            "Phineas",
+            "Ezra"
+        ]
+    },
+    {
+        "category": "Social Science",
+        "type": "multiple",
+        "difficulty": "hard",
+        "question": "How many calories are in a 355 ml can of Pepsi Cola?",
+        "correct_answer": "150",
+        "incorrect_answers": [
+            "200",
+            "100",
+            "155"
+        ]
+    },
+    {
+        "category": "Social Science",
+        "type": "multiple",
+        "difficulty": "hard",
+        "question": "According to Fair Works Australia, how long do you have to work to get Long Service Leave?",
+        "correct_answer": "7 years",
+        "incorrect_answers": [
+            "2 years",
+            "8 years",
+            "6 months"
+        ]
+    },
+    {
+        "category": "Social Science",
+        "type": "multiple",
+        "difficulty": "hard",
+        "question": "What was Bank of America originally established as?",
+        "correct_answer": "Bank of Italy",
+        "incorrect_answers": [
+            "Bank of Long Island",
+            "Bank of Pennsylvania",
+            "Bank of Charlotte"
+        ]
+    },
+    {
+        "category": "Social Science",
+        "type": "multiple",
+        "difficulty": "hard",
+        "question": "Which product did Nokia, the telecommunications company, originally sell?",
+        "correct_answer": "Paper",
+        "incorrect_answers": [
+            "Phones",
+            "Computers",
+            "Processors"
+        ]
+    },
+    {
+        "category": "Social Science",
+        "type": "multiple",
+        "difficulty": "hard",
+        "question": "How many notes are there on a standard grand piano?",
+        "correct_answer": "88",
+        "incorrect_answers": [
+            "98",
+            "108",
+            "78"
+        ]
+    }
+]
